@@ -1,4 +1,4 @@
-# Ecommerce DSCatalog
+# DSCatalog
 
 # About the project
 
