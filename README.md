@@ -21,6 +21,7 @@ To be uploaded ...
 - Maven
 - JWT, Oauth2 authentication
 - Mock, Mockito, JUnit
+- Deploy with CI/CD
 ## Front end
 - HTML / CSS / JS / TypeScript
 - Angular
