@@ -13,7 +13,7 @@ To be uploaded ...
 ## UML 
 ![UML](https://github.com/charlesmyller22/images-for-my-projects/blob/main/Screenshot%202023-07-09%20at%2021.11.59.png)
 
-# Tecnologies used in the project
+# Used technologies for building the project
 ## Back end
 - Java
 - Spring Boot
