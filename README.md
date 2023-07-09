@@ -22,6 +22,7 @@ To be uploaded ...
 - JWT, Oauth2 authentication
 - Mock, Mockito, JUnit
 - Deploy with CI/CD
+- Spring Security
 ## Front end
 - HTML / CSS / JS / TypeScript
 - Angular
